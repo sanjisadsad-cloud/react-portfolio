@@ -1,16 +1,56 @@
-# React + Vite
+# React Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+> 🚧 Проект находится в разработке. Некоторые разделы и функции ещё не завершены.
 
-Currently, two official plugins are available:
+Личный сайт-портфолио Frontend-разработчика, созданный на React + Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Демо
 
-## React Compiler
+Вставь сюда свою ссылку Vercel
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Что есть в проекте
 
-## Expanding the Oxlint configuration
+- Карточка профиля
+- Информация обо мне
+- Ссылки на социальные сети
+- Раздел с проектами
+- Ссылки на отдельные проекты
+- Адаптивная верстка
+- Современный интерфейс
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠 Технологии
+
+- React
+- JavaScript
+- HTML
+- CSS
+- Vite
+- Git
+- GitHub
+- Vercel
+
+## 📸 Скриншоты
+
+### Главная страница
+
+![Portfolio](./screenshots/portfolio.png)
+
+## 📚 Что я изучаю в этом проекте
+
+- React
+- Компоненты
+- JSX
+- Работа с CSS
+- Структура React-проекта
+- Git и GitHub
+- Деплой через Vercel
+
+## ⚠️ Статус проекта
+
+Проект находится в разработке.
+
+Планируется добавить новые секции, улучшить дизайн и обновить список проектов.
+
+## 👨‍💻 Автор
+
+Sanzhar Bekseitov
