@@ -1,6 +1,7 @@
 body {
   margin: 0;
-  background-color: #f2f4f7;
+  min-width: 320px;
+  min-height: 100vh;
 }
 .projects {
   margin-top: 20px;
