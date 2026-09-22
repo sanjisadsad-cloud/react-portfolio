@@ -4,9 +4,10 @@
 
 Личный сайт-портфолио Frontend-разработчика, созданный на React + Vite.
 
+
 ## 🌐 Демо
 
-Вставь сюда свою ссылку Vercel
+[Открыть React Portfolio](https://react-portfolio-tawny-psi.vercel.app/)
 
 ## 🚀 Что есть в проекте
 
